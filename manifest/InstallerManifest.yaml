@@ -1,0 +1,8 @@
+﻿AddonId: Minimal_01b9013c-0777-46ba-a09e-035bd66a79e2
+Packages:
+  - Version: 1.0
+    RequiredApiVersion: 2.5.0
+    ReleaseDate: 2023-04-23
+    PackageUrl: https://github.com/Kelinya/Minimal/releases/download/1.0/Minimal_01b9013c-0777-46ba-a09e-035bd66a79e2_1_0.pthm
+    Changelog:
+      - Initial release
