@@ -1,5 +1,10 @@
-# Minimal
-Minimal theme for Playnite with a neater details pane in grid view.
+<img src="https://raw.githubusercontent.com/Kelinya/Minimal/main/images/logo.png" width="350">
+
+<br />
+
+A minimal theme for Playnite with better grid view.
+
+<br />
 
 ## Features
 - Cover image visible in details pane in grid view.
@@ -25,4 +30,4 @@ Option 3: Download from the Add-ons browser in Playnite.
 - Of course, you can experiment with different settings to adapt it to you preferred layout.
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/Kelinya/Minimal/master/screenshot/1.png)
+![Screenshot](https://raw.githubusercontent.com/Kelinya/Minimal/master/images/screenshot.png)
